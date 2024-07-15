@@ -1,7 +1,9 @@
 # System Design Template and practise exercises. 
 
 
-## Please feel free to clone, extend and send PRs. Here are the High Level System Design topics I intend to cover eventually:
+Please feel free to clone, extend and send PRs. 
+
+**Table of Index:**
 
 1.  Design a Parking Lot [Video](https://www.youtube.com/watch?v=NtMvNh0WFVM) [Excalidraw ](https://github.com/blackmamba/systemdesign/blob/main/System%20Design%20Practise/Parking%20Lot.excalidraw)
   
