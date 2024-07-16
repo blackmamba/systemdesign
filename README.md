@@ -5,13 +5,13 @@ Please feel free to clone, extend and send PRs.
 
 **Table of Index:**
 
-1.  Design a Parking Lot [Video](https://www.youtube.com/watch?v=NtMvNh0WFVM) [Excalidraw ](https://github.com/blackmamba/systemdesign/blob/main/System%20Design%20Practise/Parking%20Lot.excalidraw)
+1.  Design a Parking Lot [Video](https://www.youtube.com/watch?v=NtMvNh0WFVM) [Excalidraw ](https://excalidraw.com/#json=Sn6C8gY3o9P1hepdYzLBz,S_D2_pyEhvTSY41i5k_4ig)
   
 2.  Design an Elevator System  
 
 3.  Design a Library Management
 
-4.  Design the Amazon Locker Service  [Blog](https://medium.com/@brahada29/amazon-lockers-high-level-system-design-fafe8c7d7157) [Excalidraw ](https://github.com/blackmamba/systemdesign/blob/main/System%20Design%20Practise/amazon%20locker.excalidraw)
+4.  Design the Amazon Locker Service  [Blog](https://medium.com/@brahada29/amazon-lockers-high-level-system-design-fafe8c7d7157) [Excalidraw ](https://excalidraw.com/#json=utIIEIo5lBn94tG4UWpyT,WER1E33F6-xeXcuQQ1nVWw)
 	
 
 5.  Look at the excalidraw in GitHub
