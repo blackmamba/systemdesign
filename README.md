@@ -17,7 +17,7 @@ Please feel free to clone, extend and send PRs.
     
 6.  Design an Online Blackjack Game
     
-7.  Design a Meeting Scheduler  [Excalidraw ] (https://excalidraw.com/#json=CXDLc_vb5b51vAxGSgRaX,Z8DiMMluwCAKcNh3RVrTsA)
+7.  Design a Meeting Scheduler  [Excalidraw ](https://excalidraw.com/#json=CXDLc_vb5b51vAxGSgRaX,Z8DiMMluwCAKcNh3RVrTsA)
     
 8.  Design a Movie Ticket Booking System
     
