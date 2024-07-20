@@ -17,7 +17,7 @@ Please feel free to clone, extend and send PRs.
     
 6.  Design an Online Blackjack Game
     
-7.  Design a Meeting Scheduler
+7.  Design a Meeting Scheduler  [Excalidraw ] (https://excalidraw.com/#json=CXDLc_vb5b51vAxGSgRaX,Z8DiMMluwCAKcNh3RVrTsA)
     
 8.  Design a Movie Ticket Booking System
     
@@ -27,7 +27,7 @@ Please feel free to clone, extend and send PRs.
     
 11.  Design a Chess Game
     
-12.  Design a Hotel Management System
+12.  Design a Hotel Management System [~ TicketMaster](https://www.hellointerview.com/learn/system-design/answer-keys/ticketmaster)
     
 13.  Design the Amazon Online Shopping System
     
