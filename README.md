@@ -7,7 +7,7 @@ Please feel free to clone, extend and send PRs.
 
 1.  Design a Parking Lot [Video](https://www.youtube.com/watch?v=NtMvNh0WFVM) [Excalidraw ](https://excalidraw.com/#json=Sn6C8gY3o9P1hepdYzLBz,S_D2_pyEhvTSY41i5k_4ig)
   
-2.  Design an Elevator System  
+2.  Messaging Service [Excalidraw ](https://excalidraw.com/#json=_umH_TBDwA1AgJCWqI6Rl,Sv2BJo3VnUTa5EOoAjS2uA)
 
 3.  Design a Library Management
 
