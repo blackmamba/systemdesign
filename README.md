@@ -47,6 +47,7 @@ Please feel free to clone, extend and send PRs.
 21.  Design Cricinfo
     
 22.  Design Linkedin
+23.  Design Instagram [Excalidraw](https://excalidraw.com/#json=gJ8zM6kDkgFrpgxO-23ZT,DP2AgJleQk6TpUg1Yk0HYw)
 
 
 
