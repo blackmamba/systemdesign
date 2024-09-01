@@ -19,7 +19,7 @@ Please feel free to clone, extend and send PRs.
     
 7.  Design a Meeting Scheduler  [Excalidraw ](https://excalidraw.com/#json=CXDLc_vb5b51vAxGSgRaX,Z8DiMMluwCAKcNh3RVrTsA)
     
-8.  Design a Movie Ticket Booking System
+8.  Design Ticket Master [Excalidraw ](https://excalidraw.com/#json=wQVmwj0FUXF68atryU7Q3,HijG5L6AgdgyEEKf5uilqg)
     
 9.  Design a Car Rental System
     
