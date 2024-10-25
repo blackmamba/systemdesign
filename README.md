@@ -44,7 +44,7 @@ Please feel free to clone, extend and send PRs.
     
 20.  Design an Airline Management System
     
-21.  Design Cricinfo
+21.  Design Scheduled Data Exporter [Excalidraw](https://excalidraw.com/#json=YggX85VD-A9vvlURwRT7M,6s9tQMU2uUfcXmE-2veHOw)
     
 22.  Design Linkedin
 23.  Design Instagram [Excalidraw](https://excalidraw.com/#json=gJ8zM6kDkgFrpgxO-23ZT,DP2AgJleQk6TpUg1Yk0HYw)
