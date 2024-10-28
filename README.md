@@ -21,7 +21,7 @@ Please feel free to clone, extend and send PRs.
     
 8.  Design Ticket Master [Excalidraw ](https://excalidraw.com/#json=wQVmwj0FUXF68atryU7Q3,HijG5L6AgdgyEEKf5uilqg)
     
-9.  Design a Car Rental System
+9.  Design Scheduler as a Service [Excalidraw](https://excalidraw.com/#json=BYYe4zEmEMJgNV0lhmUNe,KjEnHlwQL6YU4S21xBg0ng)
     
 10.  Design ATM
     
