@@ -34,7 +34,7 @@ Please feel free to clone, extend and send PRs.
 
 14. Yelp [Excalidraw](https://excalidraw.com/#json=_OjUgK2xcSc2i1P9NUTrC,0gtg4NnjbwX1nIy2yMUlrg)
 
-15. Ticketmaster [Excalidraw] https://excalidraw.com/#json=f7zLTA2PfGG_f8GTTyNnw,Ru_UAHQGbFWlv215UKC4GQ
+15. Ticketmaster [Excalidraw](https://excalidraw.com/#json=f7zLTA2PfGG_f8GTTyNnw,Ru_UAHQGbFWlv215UKC4GQ)
 
 Misc:
 
