@@ -36,7 +36,7 @@ Please feel free to clone, extend and send PRs.
 
 15. Ticketmaster [Excalidraw](https://excalidraw.com/#json=f7zLTA2PfGG_f8GTTyNnw,Ru_UAHQGbFWlv215UKC4GQ)
 
-16. Leetcode [Excalidraw](https://excalidraw.com/#json=doLsClKFMd_LXEeutzDOF,a6ews1EImEDG3MbE4fA2-Q)
+16. Leetcode [Excalidraw](https://excalidraw.com/#json=CiA0PF4WF95eH_ipjNm8a,Beqe7ozKgWH1qdk5fzZbpw)
 
 Misc:
 
