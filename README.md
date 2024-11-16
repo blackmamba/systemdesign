@@ -38,7 +38,7 @@ Please feel free to clone, extend and send PRs.
 
 16. Leetcode [Excalidraw](https://excalidraw.com/#json=CiA0PF4WF95eH_ipjNm8a,Beqe7ozKgWH1qdk5fzZbpw)
 
-17. Adclick Aggregator [Excalidraw](https://excalidraw.com/#json=GRgf36BJEzENDBRFKla-q,ibCrOGKtGzqIEGp2OBBVKQ)
+17. Adclick Aggregator [Excalidraw](https://excalidraw.com/#json=a0S98Yj7sqGiIKkvXoLoV,P8L2_d-sM9jadJD5WJJfaw)
 
 Misc:
 
