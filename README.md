@@ -40,6 +40,8 @@ Please feel free to clone, extend and send PRs.
 
 17. Adclick Aggregator [Excalidraw](https://excalidraw.com/#json=a0S98Yj7sqGiIKkvXoLoV,P8L2_d-sM9jadJD5WJJfaw)
 
+18. Chess System Design [Excalidraw](https://excalidraw.com/#room=9497aa9df4951c160bde,5jQ3ss03DkkY8xcEVrPxEw)
+
 Misc:
 
   Design the Amazon Online Shopping System
