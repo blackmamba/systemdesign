@@ -42,6 +42,8 @@ Please feel free to clone, extend and send PRs.
 
 18. Chess System Design [Excalidraw](https://excalidraw.com/#room=9497aa9df4951c160bde,5jQ3ss03DkkY8xcEVrPxEw)
 
+19. Design Gopuff [Excalidraw](https://excalidraw.com/#json=QDSqIJpmOPtrznpPcn1C7,HPyUnvJu6l2xRH_M4Ap86g)
+
 Misc:
 
   Design the Amazon Online Shopping System
