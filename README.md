@@ -44,6 +44,8 @@ Please feel free to clone, extend and send PRs.
 
 19. Design Gopuff [Excalidraw](https://excalidraw.com/#json=QDSqIJpmOPtrznpPcn1C7,HPyUnvJu6l2xRH_M4Ap86g)
 
+20. Design  YouTube [Excalidraw](https://excalidraw.com/#json=BqjZkNaU_9nyIXZU4J87S,JWFxW2mKP1MvOcHXWkNSUw)
+
 Misc:
 
   Design the Amazon Online Shopping System
