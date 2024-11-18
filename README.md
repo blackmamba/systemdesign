@@ -49,6 +49,8 @@ Please feel free to clone, extend and send PRs.
 21. Uber 2 [Excalidraw](https://excalidraw.com/#json=98IcYNynzO-kUxrOOzCpH,nbuKoKTKpGbT6KlWD7qIWA)
 
 22. Spotify Top K [Excalidraw](https://excalidraw.com/#json=J_J0iRj0Fh27lAJLbGjw0,r_0AxFWY_5OhpRnbBUVrAw)
+
+23. Dropbox EM Meta Fullloop [Excalidraw](https://excalidraw.com/#json=TJpOH41SoI9DF6-iTS9xG,OF9n4QDYsdSzOjZw2fme8w)
 Misc:
 
   Design the Amazon Online Shopping System
