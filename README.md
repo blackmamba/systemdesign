@@ -47,6 +47,8 @@ Please feel free to clone, extend and send PRs.
 20. Design  YouTube [Excalidraw](https://excalidraw.com/#json=BqjZkNaU_9nyIXZU4J87S,JWFxW2mKP1MvOcHXWkNSUw)
 
 21. Uber 2 [Excalidraw](https://excalidraw.com/#json=98IcYNynzO-kUxrOOzCpH,nbuKoKTKpGbT6KlWD7qIWA)
+
+22. Spotify Top K [Excalidraw](https://excalidraw.com/#json=J_J0iRj0Fh27lAJLbGjw0,r_0AxFWY_5OhpRnbBUVrAw)
 Misc:
 
   Design the Amazon Online Shopping System
