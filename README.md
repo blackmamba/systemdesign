@@ -51,6 +51,8 @@ Please feel free to clone, extend and send PRs.
 22. Spotify Top K [Excalidraw](https://excalidraw.com/#json=J_J0iRj0Fh27lAJLbGjw0,r_0AxFWY_5OhpRnbBUVrAw)
 
 23. Dropbox EM Meta Fullloop [Excalidraw](https://excalidraw.com/#json=TJpOH41SoI9DF6-iTS9xG,OF9n4QDYsdSzOjZw2fme8w)
+
+24. Cashapp [Excalidraw](https://excalidraw.com/#json=wTgmsznUWHjyFnmCGCkrx,d7sNaFFV2Jy6le0DEG5uBQ)
 Misc:
 
   Design the Amazon Online Shopping System
