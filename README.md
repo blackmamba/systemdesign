@@ -55,6 +55,20 @@ Please feel free to clone, extend and send PRs.
 24. Cashapp [Excalidraw](https://excalidraw.com/#json=wTgmsznUWHjyFnmCGCkrx,d7sNaFFV2Jy6le0DEG5uBQ)
 Misc:
 
-  Design the Amazon Online Shopping System
+25. Design the Amazon Online Shopping System
   Design Scheduled Data Exporter [Excalidraw](https://excalidraw.com/#json=YggX85VD-A9vvlURwRT7M,6s9tQMU2uUfcXmE-2veHOw)
 
+# AI Designs
+
+1. Prompt Management System [Excalidraw](https://excalidraw.com/#json=OeGHub8Ot1ij6lSaBO6IO,Y9AQ28wrLqRaokSi2ZJQnQ)
+
+2. Eval pipeline at scale [Excalidraw](https://excalidraw.com/#json=rSzDBLEjHJR4FJ52lhkZm,fOKxnD6qwfhD-zSry07tHA)
+
+3. Agentic System at Scale [Excalidraw](https://excalidraw.com/#json=W5D5-JwoU57gIeT24UCyz,gI_PFWpN4dYGC0rjirhhcg)
+
+4. Feedback loop system [Excalidraw](https://excalidraw.com/#json=ZV7i4cOffmLUav9mz751M,7QWSMEWK5-HsHqd5CSndlw)
+
+
+Prompt management system
+Agentic system at scale
+Feedback loop system
