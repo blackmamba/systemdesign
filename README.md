@@ -62,7 +62,7 @@ Misc:
 
 1. Prompt Management System [Excalidraw](https://excalidraw.com/#json=OeGHub8Ot1ij6lSaBO6IO,Y9AQ28wrLqRaokSi2ZJQnQ)
 
-2. Eval pipeline at scale [Excalidraw](https://excalidraw.com/#json=rSzDBLEjHJR4FJ52lhkZm,fOKxnD6qwfhD-zSry07tHA)
+2. Eval pipeline at scale [Excalidraw](https://excalidraw.com/#json=jxUHiMYijDECLyaq4kvyx,K7_hNl54y8rYc_CzrWZ4BQ)
 
 3. Agentic System at Scale [Excalidraw](https://excalidraw.com/#json=W5D5-JwoU57gIeT24UCyz,gI_PFWpN4dYGC0rjirhhcg)
 
