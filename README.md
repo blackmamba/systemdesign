@@ -69,6 +69,3 @@ Misc:
 4. Feedback loop system [Excalidraw](https://excalidraw.com/#json=ZV7i4cOffmLUav9mz751M,7QWSMEWK5-HsHqd5CSndlw)
 
 
-Prompt management system
-Agentic system at scale
-Feedback loop system
