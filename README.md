@@ -58,6 +58,9 @@ Misc:
 25. Design the Amazon Online Shopping System
   Design Scheduled Data Exporter [Excalidraw](https://excalidraw.com/#json=YggX85VD-A9vvlURwRT7M,6s9tQMU2uUfcXmE-2veHOw)
 
+26. Golden Path Visualizer
+  [Excalidraw](https://excalidraw.com/#json=VLZL1iLiXhmFujJzZ_iXR,FafYoNMvypKyegEpr2He6Q)
+
 # AI Designs
 
 1. Prompt Management System [Excalidraw](https://excalidraw.com/#json=OeGHub8Ot1ij6lSaBO6IO,Y9AQ28wrLqRaokSi2ZJQnQ)
